@@ -1,0 +1,15 @@
+IscaRegimes.egg-info/
+slurm_dump/
+__pycache__
+*.sh
+*.out
+*.err
+*.stats
+*.npy
+*.csv
+*.png
+.ipynb_checkpoints
+TODO
+check.py
+
+

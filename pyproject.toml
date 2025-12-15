@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "IscaRegimes"
+version = "0.1.0"
+description = "A package to find dynamical regimes from Isca simulations"
+requires-python = ">=3.8"
+
+dependencies = [
+    "umap-learn",
+    "numpy",
+    "tqdm",
+    "matplotlib",
+    "scikit-learn","sciris"
+]
+
+

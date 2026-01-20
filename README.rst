@@ -8,7 +8,7 @@ About
 
 IscaRegimes is a versatile toolkit designed to extract dynamical regimes from **Isca** (https://doi.org/10.5194/gmd-11-843-2018) simulations; however, it can also be applied to reanalysis and CMIP datasets. 
 
-Acknowledgemnt
+Acknowledgement
 ----
 
 This toolkit is primarily based on the **NEMI** algorithm developed by Maike Sonnewald (https://github.com/CompClimate/NEMI/), a flexible unsupervised learning framework designed to find dominant balances in geospatial data.

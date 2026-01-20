@@ -1,7 +1,7 @@
 ====
 IscaRegimes
 ====
-|Github|
+|Zenodo|
 
 About
 ----
@@ -15,8 +15,8 @@ This toolkit is primarily based on the **NEMI** algorithm developed by Maike Son
 
 It also utilizes the dominant balance identification code from Bryan Kaiser (https://github.com/bekaiser/dominant_balance), which is an objective method for labeling dynamical regimes.
 
-.. |Github| image:: https://img.shields.io/badge/GitHub-arijeetdutta%2FIscaRegimes-blue.svg?style=flat
-   :target: https://github.com/arijeetdutta/IscaRegimes   
+.. |Zenodo| image:: https://img.shields.io/badge/Zenodo-10.5281/zenodo.18317114 -blue.svg?style=flat
+   :target: https://doi.org/10.5281/zenodo.18317114  
 
 Installation
 ----
